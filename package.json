@@ -1,0 +1,48 @@
+{
+  "name": "numbertwenty",
+  "version": "1.0.4",
+  "description": "20 (twenty; Roman numeral XX) is the natural number following 19 and preceding 21. ",
+  "keywords": [
+    "20",
+    "21",
+    "22",
+    "23",
+    "always-thirteen",
+    "jsfruit",
+    "nineteen",
+    "number",
+    "true",
+    "boolean",
+    "false"
+  ],
+  "homepage": "https://github.com/enterprise-npm-ai/numbertwenty#readme",
+  "bugs": {
+    "url": "https://github.com/enterprise-npm-ai/numbertwenty/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprise-npm-ai/numbertwenty.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@10xly/strict-equals": "^1.0.0",
+    "brototype": "^0.0.6",
+    "cli-color": "^2.0.4",
+    "false-value": "^2.0.6",
+    "logtoconsole": "^1.0.7",
+    "nineteenify": "^1.0.5",
+    "none": "^1.0.0",
+    "successor": "^1.0.1",
+    "tru": "^1.0.0",
+    "vanilla-javascript": "^1.1.1",
+    "vapor-js-npm": "^1.4.6",
+    "yanoop": "^1.0.0"
+  },
+  "devDependencies": {}
+}
